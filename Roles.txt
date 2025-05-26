@@ -1,0 +1,22 @@
+
+My self Sai Krishna, I am currently working for Trysol Global Services as a Sr. DevOps Engineer for a client called macys. This is an application related to maryland Health benefits & Exchange domain. I have overall 7+ years of IT Experience in which 4 years as a Devops enginner.
+
+Over here I'm resposible to setup the CI-CD pipeline for which we are using Jenkins.
+
+I design the groovy script files to trigger all stages of CI-CD where the code is downloaded,built,deployed into QA servers & run the automation test scripts and finally deploy into stagging environment where UAT scripts are executed.
+
+These pipleines are executed for the delivery activites and our sprints are generally scheduled for every 3-4 weeks,
+but we have sub sprints that are as small as 2-3 days, these sub sprints could be related to enhancements or bug fixes and during these sub sprints also I need to modify the jenkins files to automate the release process.
+
+I also used docker extensively and I have setup various dev and testing environments using docker compose.I also converted legacy applications into docker based applications by designing the dockerfiles.
+
+I also have experinece in implementing docker at the level of production using both docker swarm and kubernetes.I have firsthand experience in migrating from swarm to Kubernetes cluster.
+
+I also have experince in creating the kubernetes definition files to handle different production related challanges like load balancing,auto scalling,rolling updates,high availability etc.
+
+Our applications are running on a data center that is located in Virginia on approx 2000 servers and I configure these servers using Ansible.
+I designed Ansible playbooks and roles to configure applications like apache tomcat, data bases like mysql and even running docker containers remotely using ansible.
+
+I also worked to some extent on setting up the insfractructure on AWS using terraform.
+Similary we identified some use cases in jenkins and docker which we have automated using python scripts.
+These are the componets on which I worked.
